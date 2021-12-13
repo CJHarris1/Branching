@@ -9,3 +9,8 @@
 ### Information Commands
 * 'git status' - display current status of local working directory/repository
 * 'git log or git log --oneline' -shows commits, --oneline in compact form
+
+### Branching Commands
+* 'git branch' - List local git branches
+* 'git branch newBranch' - creates new branch named newBranch
+* 'git checkout newBranch' - check out local branch named 'newBranch'
