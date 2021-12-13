@@ -2,7 +2,7 @@
 
 Reference for using Git in team projects.
 Summary of Git Commands
-Added in main branch
+
 
 ### Basic Commands
 * 'git init' - Initialize local Git repository
@@ -13,6 +13,7 @@ Added in main branch
 ### Information Commands
 * 'git status' - display current status of local working directory/repository
 * 'git log or git log --oneline' -shows commits, --oneline in compact form
+* 'git config -l' - list local git config settings
 
 ### Branching Commands
 * 'git branch' - List local git branches
