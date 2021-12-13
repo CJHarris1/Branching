@@ -2,6 +2,7 @@
 
 Reference for using Git in team projects.
 Summary of Git Commands
+Added in main branch
 
 ### Basic Commands
 * 'git init' - Initialize local Git repository
