@@ -15,3 +15,8 @@
 * 'git branch newBranch' - creates new branch named newBranch
 * 'git checkout newBranch' - check out local branch named 'newBranch'
 * 'git branch -M otherBranch' - Rename current branch to 'otherBranch'
+
+### Remote Commands
+* 'git remote add origin remoteUrl' - Add alias "origin" for remote repository Url "remoteUrl"
+* 'git push origin main' - Push locally-comitted changes to 'main' branch on remote repository
+* 'git push -u origin main' - Same, setting "origin main" as default for subsequent 'git push'
